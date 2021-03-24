@@ -1,4 +1,4 @@
-# Analog-Filters-Design
+# Analog-Filters-Design-Project
 
 This assignment is part of the course Analog Filters(AUTH 7th semester). The goal is to design four Analog Filters using MATLAB and Multisim:
 
